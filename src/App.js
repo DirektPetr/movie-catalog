@@ -11,7 +11,7 @@ function App() {
     <div className="wrapper">
       <BrowserRouter>
         <Routes>
-          <Route path="/" element={<MainLayout />}>
+          <Route path="/movie-catalog" element={<MainLayout />}>
             <Route index element={<Main />} />
             <Route path="about" element={<About />} />
             <Route path="contacts" element={<Contacts />} />

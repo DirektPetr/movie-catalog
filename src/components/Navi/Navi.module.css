@@ -1,0 +1,45 @@
+.title {
+  color: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 5px;
+  padding-top: 20px;
+}
+
+.menu__list {
+  display: flex;
+}
+
+.menu__item {
+  padding-top: 30px;
+  padding-right: 50px;
+}
+
+.menu__item:last-child {
+  padding-right: 0px;
+}
+
+.menu__item a:hover {
+  color: #edfe7d;
+  text-shadow: 0px 0px 5px #ddf82a62;
+}
+
+.nav__list {
+  display: flex;
+  justify-content: end;
+}
+
+.nav__item {
+  padding-top: 30px;
+  padding-right: 50px;
+}
+
+.nav__item:last-child {
+  padding-right: 0px;
+}
+
+.nav__item a {
+  color: #fff;
+}
+

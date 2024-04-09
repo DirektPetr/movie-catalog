@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/movie-catalog/static/css/main.27a6298c.css",
-    "main.js": "/movie-catalog/static/js/main.4060216d.js",
+    "main.css": "/movie-catalog/static/css/main.abf88113.css",
+    "main.js": "/movie-catalog/static/js/main.67dc9716.js",
+    "static/media/android-chrome-512x512.png": "/movie-catalog/static/media/android-chrome-512x512.a263345198f66a8b4132.png",
     "index.html": "/movie-catalog/index.html",
-    "main.27a6298c.css.map": "/movie-catalog/static/css/main.27a6298c.css.map",
-    "main.4060216d.js.map": "/movie-catalog/static/js/main.4060216d.js.map"
+    "main.abf88113.css.map": "/movie-catalog/static/css/main.abf88113.css.map",
+    "main.67dc9716.js.map": "/movie-catalog/static/js/main.67dc9716.js.map"
   },
   "entrypoints": [
-    "static/css/main.27a6298c.css",
-    "static/js/main.4060216d.js"
+    "static/css/main.abf88113.css",
+    "static/js/main.67dc9716.js"
   ]
 }
